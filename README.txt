@@ -1,1 +1,1 @@
-Il suffit de lancer le fichier pour avoir un rendu de Delaunay
+Delaunay_extended.ml affiche une triangulisation de Delaunay.
